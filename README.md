@@ -1,0 +1,1 @@
+C'est une application Android appelée “Coach-Nutrition” permettant à l’utilisateur de savoir les apports nutritifs de ce qu’il mange (calories, lipides, glucides, protéines) et peut ainsi savoir s’il respecte un bon équilibre alimentaire.
